@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64 Bit Versión de evaluación) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1451px" height="1451px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 379.89 379.89"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:black}
+    .fil2 {fill:#050505}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="189.95" y1="96.86" x2="189.95" y2="283.03">
+   <stop offset="0" style="stop-opacity:1; stop-color:yellow"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:fuchsia"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:aqua"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="303.82,96.86 303.82,283.03 76.08,283.03 76.08,96.86 "/>
+  <path class="fil1" d="M91.83 105.22c6.78,9.74 36.24,46.64 95.02,48.53 -2.68,-20.91 6.01,-41.41 23.71,-51.27 18.51,-10.32 41.43,-5.94 57.55,9.15 1.3,-0.28 3.13,-0.71 5.3,-1.29 6.64,-1.76 16.51,-4.95 24.23,-9.88 -6.17,17.4 -20.1,25.48 -20.1,25.48 0,0 14.18,-1.4 26.27,-7.33 -8.69,14.5 -24.13,24.96 -24.13,24.96 2.48,50.34 -25.56,100.78 -74.59,125.32 -43.63,21.83 -92.7,17.54 -129.01,-7 13.92,0.5 47.47,-0.53 68.38,-19.75 -33.23,-1.59 -43.13,-32.34 -43.13,-32.34 0,0 14.7,1.34 20.87,-1.34 -38.91,-7.99 -37.5,-46.44 -37.5,-46.44 0,0 4.88,4.88 21.83,6.21 -37.02,-26.35 -14.7,-63.01 -14.7,-63.01zm232.43 -49.59c-74.18,-74.17 -194.45,-74.17 -268.63,0 -74.17,74.18 -74.17,194.45 0,268.63 74.18,74.18 194.45,74.18 268.63,0 74.18,-74.18 74.18,-194.45 0,-268.63z"/>
+  <polygon class="fil2" points="130.53,335.73 160.24,318.58 130.53,301.43 "/>
+  <polygon class="fil2" points="175.09,361.46 204.8,344.31 175.09,327.16 "/>
+  <polygon class="fil2" points="219.65,335.73 249.36,318.58 219.65,301.43 "/>
+  <polygon class="fil2" points="264.21,258.55 293.92,241.4 264.21,224.25 "/>
+  <polygon class="fil2" points="264.21,310.01 293.92,292.85 264.21,275.7 "/>
+  <polygon class="fil2" points="308.77,181.37 338.48,164.22 308.77,147.07 "/>
+  <polygon class="fil2" points="308.77,232.82 338.48,215.67 308.77,198.52 "/>
+  <polygon class="fil2" points="308.77,284.28 338.48,267.13 308.77,249.98 "/>
+  <polygon class="fil2" points="41.41,129.92 71.12,112.77 41.41,95.61 "/>
+  <polygon class="fil2" points="41.41,181.37 71.12,164.22 41.41,147.07 "/>
+  <polygon class="fil2" points="41.41,232.82 71.12,215.67 41.41,198.52 "/>
+  <polygon class="fil2" points="41.41,284.28 71.12,267.13 41.41,249.98 "/>
+  <polygon class="fil2" points="85.97,258.55 115.68,241.4 85.97,224.25 "/>
+  <polygon class="fil2" points="85.97,310.01 115.68,292.85 85.97,275.7 "/>
+  <polygon class="fil2" points="130.53,129.92 160.24,112.77 130.53,95.61 "/>
+  <polygon class="fil2" points="130.53,335.73 160.24,318.58 130.53,301.43 "/>
+  <polygon class="fil2" points="219.65,335.73 249.36,318.58 219.65,301.43 "/>
+  <polygon class="fil2" points="264.21,104.19 293.92,87.04 264.21,69.89 "/>
+  <polygon class="fil2" points="308.77,129.92 338.48,112.77 308.77,95.61 "/>
+  <polygon class="fil2" points="41.41,129.92 71.12,112.77 41.41,95.61 "/>
+  <polygon class="fil2" points="85.97,104.19 115.68,87.04 85.97,69.89 "/>
+  <polygon class="fil2" points="130.53,78.46 160.24,61.31 130.53,44.16 "/>
+  <polygon class="fil2" points="130.53,129.92 160.24,112.77 130.53,95.61 "/>
+  <polygon class="fil2" points="175.09,52.74 204.8,35.58 175.09,18.43 "/>
+  <polygon class="fil2" points="175.09,104.19 204.8,87.04 175.09,69.89 "/>
+  <polygon class="fil2" points="219.65,78.46 249.36,61.31 219.65,44.16 "/>
+  <path class="fil2" d="M85.97 138.81l0 16.83 5.39 -3.11c-2.82,-4.6 -4.5,-9.24 -5.39,-13.72z"/>
+  <path class="fil2" d="M175.09 121.34l0 31.54c1.34,0.16 2.7,0.3 4.07,0.42l7.28 -4.21c-0.33,-6.82 0.55,-13.52 2.55,-19.73l-13.9 -8.02z"/>
+  <path class="fil2" d="M219.65 98.66c1.23,-0.36 2.46,-0.66 3.7,-0.91l-3.7 -2.14 0 3.05z"/>
+  <path class="fil2" d="M289.28 135.81c-5.32,4.86 -9.6,7.76 -9.6,7.76 0.05,1.03 0.09,2.05 0.11,3.08l14.13 -8.16 -4.64 -2.68z"/>
+  <path class="fil2" d="M293.92 189.95l-17.66 -10.2c-2.11,8.78 -5.13,17.36 -9,25.59l26.66 -15.39z"/>
+  <path class="fil2" d="M249.36 267.13l-21.62 -12.49c-2.61,2.02 -5.31,3.96 -8.09,5.81l0 23.83 29.71 -17.15z"/>
+  <path class="fil2" d="M204.8 292.85l-24.87 -14.35c-1.61,0.43 -3.22,0.84 -4.84,1.21l0 30.3 29.71 -17.16z"/>
+  <path class="fil2" d="M130.53 284.28l3.17 -1.83c-1.06,-0.1 -2.11,-0.22 -3.17,-0.35l0 2.18z"/>
+  <path class="fil2" d="M85.97 207.1l14.79 -8.54c-9.13,-7.67 -13.09,-17.73 -14.79,-25.36l0 33.9z"/>
+ </g>
+</svg>
